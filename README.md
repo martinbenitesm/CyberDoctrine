@@ -7,20 +7,20 @@ CyberDoctrine es un repositorio personal de conocimientos sobre ciberseguridad c
 ---
 ## Asignaturas
 
-Arquitectura y Fundamentos
+📗 Arquitectura y Fundamentos
 - Redes de Datos y Comunicaciones
 - Sistemas Operativos
 - Arquitectura de Windows (Windows Internals)
 - Desarrollo y Programación Técnica
 
-Seguridad Ofensiva y Análisis
+📕 Seguridad Ofensiva y Análisis
 - Criptografía Aplicada
 - Análisis de Malware
 - Ingeniería Inversa
 - Seguridad en Aplicaciones Web
 - Inteligencia de Fuentes Abiertas (OSINT)
 
-Seguridad Defensiva y Operaciones
+📘 Seguridad Defensiva y Operaciones
 - Respuesta a Incidentes y Análisis Forense Digital (DFIR)
 - Seguridad en Infraestructura Cloud
 - Seguridad en Entornos de Active Directory
